@@ -1,0 +1,5 @@
+{
+  "name": "InterviewMaster",
+  "description": "A professional interview management system featuring resume parsing with Gemini, Kanban candidate tracking, and split-screen interview assessment tools.",
+  "requestFramePermissions": []
+}
